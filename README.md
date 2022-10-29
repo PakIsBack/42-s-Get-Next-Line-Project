@@ -1,8 +1,8 @@
 # 42's Get_Next_Line Project
-Get Next Line, done with structures and recursively. Children don't do this at home alone.
+Get Next Line, done with list structures and recursively.
 
-I know, I know. And I knew before. But still I wanted to do it through structures. Very funny to do it, tortuous to debug it.
-Later, I rebuilted it again to add recursivity, just for the fun of it. 
+I know, and I knew before start it: not the best way to do it. But still I wanted to do it through list structure. Much of fun to code it, tortuous to debug it.
+Later, I rebuilted it again to add recursivity, just for the fun of it (bonus part remains in older version). 
 
 ====== XXXXXX ======= XXXXXXX ====== XXXXXX ======= XXXXXXX ====== XXXXXX =======
 
