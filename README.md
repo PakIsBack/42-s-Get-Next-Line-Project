@@ -4,7 +4,7 @@ Get Next Line, done with structures and recursively. Children don't do this at h
 I know, I know. And I knew before. But still I wanted to do it through structures. Very funny to do it, tortuous to debug it.
 Later, I rebuilted it again to add recursivity, just for the fun of it. 
 
-====== XXXXXX ======= XXXXXXX ====== XXXXXX ======= XXXXXXX ====== XXXXXX ======= XXXXXXX ====== XXXXXX 
+====== XXXXXX ======= XXXXXXX ====== XXXXXX ======= XXXXXXX ====== XXXXXX =======
 
 Project specifications:
 
