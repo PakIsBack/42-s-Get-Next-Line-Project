@@ -1,4 +1,4 @@
-# 42-s-Get-Next-Line-Project
+# 42's Get_Next_Line Project
 Get Next Line, done with structures and recursively. Children don't do this at home alone.
 
 I know, I know. And I knew before. But still I wanted to do it through structures. Very funny to do it, tortuous to debug it.
