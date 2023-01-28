@@ -27,7 +27,7 @@ RM		=	rm -f
 
 all:		$(NAME)
 
-$(NAME):	
+$(NAME):	$(SRCS)	
 		cc -c $(CFLAGS) $(SRCS)
 		ar rcs $(NAME) $(OBJS)
 
